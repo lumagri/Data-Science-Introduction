@@ -1,2 +1,2 @@
 # data-science-introduction
-Aulas do curso de Data Science: analises e visualização de dados 
+Learning Data Science with Alura: analysis and data visualization 
