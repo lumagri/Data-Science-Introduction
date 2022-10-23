@@ -1,2 +1,2 @@
-# data-science-introduction
-Learning Data Science with Alura: analysis and data visualization 
+# data-science
+1_Data Science: analysis and data visualization 
